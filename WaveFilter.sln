@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveFilterer.Library", "WaveFilterer.Library\WaveFilterer.Library.csproj", "{0AC20558-66DB-4637-9F19-5AA6CD863FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveFiltererTests", "WaveFiltererTests\WaveFiltererTests.csproj", "{294C1FEE-F32B-4D4C-8042-1CBB6D791FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullWaveFilter", "FullWaveFilter\FullWaveFilter.csproj", "{619C05A8-4D91-4112-8E35-1C91F28C8551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC20558-66DB-4637-9F19-5AA6CD863FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC20558-66DB-4637-9F19-5AA6CD863FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC20558-66DB-4637-9F19-5AA6CD863FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC20558-66DB-4637-9F19-5AA6CD863FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294C1FEE-F32B-4D4C-8042-1CBB6D791FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C1FEE-F32B-4D4C-8042-1CBB6D791FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C1FEE-F32B-4D4C-8042-1CBB6D791FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C1FEE-F32B-4D4C-8042-1CBB6D791FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619C05A8-4D91-4112-8E35-1C91F28C8551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619C05A8-4D91-4112-8E35-1C91F28C8551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619C05A8-4D91-4112-8E35-1C91F28C8551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619C05A8-4D91-4112-8E35-1C91F28C8551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
